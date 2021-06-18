@@ -1,0 +1,19 @@
+div {
+  color: aqua;
+}
+
+input:checked + h1 {
+  color: pink;
+}
+
+input:checked + h2 {
+  color: yellow;
+}
+
+input {
+  // display: none;
+}
+
+img {
+  max-width: 50%;
+}
